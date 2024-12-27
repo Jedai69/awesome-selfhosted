@@ -2,24 +2,18 @@
 
 
 
-Self-hostin is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS]() providers.
 
-- [ware)
+
   - [ and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Backup](#backup)
-  - [Blogging Platforms](#blogging
+  - [Backup](#baLl
+ll
 
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
+
+l
+  - [ - IRC](#communication---l
+l
+L
+  - [Community-Supported Agriculture (CSA)](#community-hffsupported-agriculture-csa)
   - [Conference Management](#conference-management)
   - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Database Management](#database-management)
